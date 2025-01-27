@@ -13,7 +13,7 @@ This is a responsive, interactive profile card created as part of the HNG Fronte
 
 ## Technologies Used 💻
 - HTML5
-- CSS3
+- CSS
 - Vanilla JavaScript
 
 ## Requirements Met 📋
