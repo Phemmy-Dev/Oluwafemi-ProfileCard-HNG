@@ -1,4 +1,4 @@
-# Developer Profile Card 🚀
+# My Profile Card 🚀
 
 ## Project Overview
 This is a responsive, interactive profile card created as part of the HNG Frontend Development internship challenge. The project demonstrates skills in HTML, CSS, and JavaScript, showcasing a modern, clean design for a personal developer profile.
