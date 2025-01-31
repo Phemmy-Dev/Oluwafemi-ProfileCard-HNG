@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Oluwafemi's Profile Card</title>
+    <style>
+        
+    </style>
+</head>
+<body>
+    <div class="profile-card">
+        <img 
+            data-testid="profilePicture"
+            src="./profileimg.jpg" 
+            alt="Profile Picture"
+            class="profile-picture"
+        >
+        
+        <h1 data-testid="fullName" class="name">Oluwafemi Akinruntan</h1>
+        
+        <h2 data-testid="jobTitle" class="job-title">Frontend Developer</h2>
+        
+        <p data-testid="shortBio" class="bio">
+            I am a passionate frontend developer with a strong focus on crafting intuitive and engaging user interfaces. Proficient in modern JavaScript frameworks like React, I specialize in building responsive, high-performance web applications. I am committed to writing clean, maintainable, and scalable code while continuously learning new technologies to stay ahead in the ever-evolving tech landscape. 
+        </p>
+        
+        <div class="info-item" data-testid="currentLocation">
+            📍 Lagos, Nigeria
+        </div>
+        
+        <div class="info-item" data-testid="emailAddress">
+            📧 oluwafemiakinruntan1@gmail.com
+        </div>
+        
+        <div class="social-links" data-testid="socialLinks">
+            <a href="https://github.com/Phemmy-Dev" target="_blank">GitHub</a>
+            <a href="https://www.linkedin.com/in/oluwafemi-akinruntan/" target="_blank">LinkedIn</a>
+            <a href=https://x.com/Phemmy_dev" target="_blank">Twitter</a>
+        </div>
+        
+        <div class="time" data-testid="currentTimeUTC">
+            Current UTC Time: Loading...
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
